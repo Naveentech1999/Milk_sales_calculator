@@ -1,0 +1,1 @@
+{"name":"Daily Milk Sales Calculator","short_name":"Milk Sales","description":"Daily milk packet sales calculator for Heritage, Vijaya and Amul.","start_url":"./","scope":"./","display":"standalone","background_color":"#f4f7f1","theme_color":"#205b40","icons":[{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
